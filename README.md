@@ -1,2 +1,2 @@
-# memecoin-trading-bot.
-"Meme coin trading bot project".
+# memecoin-trading-bot
+Meme coin trading bot project
